@@ -1,4 +1,4 @@
-# Proyecto de Administración de Base de Datos con Vue
+# Proyecto de Administración de Base de Datos tienda Sex Shop con Vue
 
 Este proyecto es una interfaz de administración desarrollada con **Vue.js**, que permite gestionar las tablas de una base de datos a través de una serie de operaciones **CRUD**. La aplicación se conecta con las APIs publicadas en la URI: [http://sexshop.runasp.net/](http://sexshop.runasp.net/) para realizar las operaciones de consulta y manipulación de datos.
 
